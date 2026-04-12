@@ -1,0 +1,4 @@
+mission_executor_node:
+  ros__parameters: 
+    step_delay: 1.0
+    mission_types: ["patrol", "inspect", "deliver"]

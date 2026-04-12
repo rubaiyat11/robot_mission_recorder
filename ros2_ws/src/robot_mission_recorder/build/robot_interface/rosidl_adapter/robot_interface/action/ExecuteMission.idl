@@ -1,0 +1,32 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from robot_interface/action/ExecuteMission.action
+// generated code does not contain a copyright notice
+
+
+module robot_interface {
+  module action {
+    @verbatim (language="comment", text=
+      "Goal")
+    struct ExecuteMission_Goal {
+      string mission_type;
+
+      float duration_seconds;
+    };
+    @verbatim (language="comment", text=
+      "Result  ")
+    struct ExecuteMission_Result {
+      boolean success;
+
+      string summary;
+    };
+    @verbatim (language="comment", text=
+      "Feedback")
+    struct ExecuteMission_Feedback {
+      float progress_percent;
+
+      string current_step;
+
+      int32 steps_completed;
+    };
+  };
+};

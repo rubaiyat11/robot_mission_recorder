@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "robot_interface__py",
+		"source" : "/home/nemo/ros2_ws/src/robot_mission_recorder/build/robot_interface/robot_interface__py"
+	}
+}

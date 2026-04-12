@@ -1,0 +1,3 @@
+bag_recorder_node:
+  ros__parameters:
+    bag_path: "/home/nemo/ros2_ws/mission_bags/"

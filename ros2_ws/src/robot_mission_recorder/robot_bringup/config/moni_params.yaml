@@ -1,0 +1,4 @@
+mission_monitor_node:
+  ros__parameters:
+    mission_type: "patrol"
+    misison_duration: 10.0
