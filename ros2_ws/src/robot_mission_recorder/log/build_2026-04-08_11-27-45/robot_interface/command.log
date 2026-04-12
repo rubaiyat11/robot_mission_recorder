@@ -1,2 +1,0 @@
-Invoking command in '/home/nemo/ros2_ws/src/robot_mission_recorder/build/robot_interface': /usr/bin/cmake /home/nemo/ros2_ws/src/robot_mission_recorder/robot_interface -DCMAKE_INSTALL_PREFIX=/home/nemo/ros2_ws/src/robot_mission_recorder/install/robot_interface
-Invoked command in '/home/nemo/ros2_ws/src/robot_mission_recorder/build/robot_interface' returned '1': /usr/bin/cmake /home/nemo/ros2_ws/src/robot_mission_recorder/robot_interface -DCMAKE_INSTALL_PREFIX=/home/nemo/ros2_ws/src/robot_mission_recorder/install/robot_interface
