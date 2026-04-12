@@ -1,6 +1,0 @@
-{
-  "package_name": "robot_interface",
-  "non_idl_tuples": [
-    "/home/nemo/ros2_ws/src/robot_mission_recorder/robot_interface:action/ExecuteMission.action"
-  ]
-}
